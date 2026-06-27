@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -23,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
