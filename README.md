@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
