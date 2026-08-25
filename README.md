@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [1572-matrix-diagonal-sum](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
