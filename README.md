@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
@@ -58,5 +59,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sahil-Trambadia/Leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
